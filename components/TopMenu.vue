@@ -17,6 +17,7 @@
         </a>
         <nuxt-link to="/" class="nav-item is-tab" active-class="is-active" exact>Home</nuxt-link>
         <nuxt-link to="/clients" class="nav-item is-tab" active-class="is-active" exact>Clients</nuxt-link>
+        <nuxt-link to="/entries" class="nav-item is-tab" active-class="is-active" exact>Entries</nuxt-link>
         <nuxt-link to="/about" class="nav-item is-tab" active-class="is-active" exact>About page</nuxt-link>
       </div>
     </div>
