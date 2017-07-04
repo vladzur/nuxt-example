@@ -32,10 +32,10 @@ export default {
     }
   },
   methods: {
-    cancelAction() {
+    cancelAction () {
       this.$emit('close')
     },
-    okAction() {
+    okAction () {
       this.$emit('ok')
     }
   }
