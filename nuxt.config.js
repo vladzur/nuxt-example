@@ -25,6 +25,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    publicPath: 'https://vladzur.github.io/nuxt-example/',
     /*
     ** Run ESLINT on save
     */
