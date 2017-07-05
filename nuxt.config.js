@@ -21,11 +21,13 @@ module.exports = {
   ** Customize the progress-bar color
   */
   loading: { color: '#3B8070' },
+  env: {
+    baseUrl: 'ttps://vladzur.github.io/nuxt-example/'
+  },
   /*
   ** Build configuration
   */
   build: {
-    publicPath: 'https://vladzur.github.io/nuxt-example/',
     /*
     ** Run ESLINT on save
     */
