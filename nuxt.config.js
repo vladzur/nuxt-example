@@ -21,8 +21,8 @@ module.exports = {
   ** Customize the progress-bar color
   */
   loading: { color: '#3B8070' },
-  env: {
-    baseUrl: 'ttps://vladzur.github.io/nuxt-example/'
+  router: {
+    base: '/nuxt-example/'
   },
   /*
   ** Build configuration
